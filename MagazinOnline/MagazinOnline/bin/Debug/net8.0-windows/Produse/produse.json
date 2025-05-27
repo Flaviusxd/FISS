@@ -1,0 +1,22 @@
+[
+  {
+    "Id": 1,
+    "Name": "Laptop ASUS",
+    "Price": 3499.99,
+    "VanzatorEmail": "vanzator1@email.com",
+    "Description": "Laptop performant cu procesor Intel i7 \u0219i 16GB RAM.",
+    "EsteNegociabil": true,
+    "PretMinim": 0,
+    "MinPrice": null
+  },
+  {
+    "Id": 3,
+    "Name": "Televizor LG 4K",
+    "Price": 1999.00,
+    "VanzatorEmail": "vanzator3@email.com",
+    "Description": "Televizor LED 4K Ultra HD, 139 cm.",
+    "EsteNegociabil": true,
+    "PretMinim": 0,
+    "MinPrice": null
+  }
+]
