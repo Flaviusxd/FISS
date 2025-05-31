@@ -1,0 +1,20 @@
+[
+  {
+    "IsApproved": true,
+    "IsActive": true,
+    "Email": "seller",
+    "Password": "seller"
+  },
+  {
+    "IsApproved": true,
+    "IsActive": true,
+    "Email": "vanzator",
+    "Password": "vanzator"
+  },
+  {
+    "IsApproved": true,
+    "IsActive": true,
+    "Email": "vanzator3",
+    "Password": "vanzator3"
+  }
+]

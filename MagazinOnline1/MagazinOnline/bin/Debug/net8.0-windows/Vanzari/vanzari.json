@@ -1,0 +1,35 @@
+[
+  {
+    "Id": "0a5999c3-f75f-40bc-8cb1-0f29feea67bf",
+    "ProductId": 2,
+    "ProductName": "Telefon Samsung Galaxy",
+    "SellerEmail": "vanzator2@email.com",
+    "BuyerEmail": "flavius",
+    "PretOriginal": 2499.50,
+    "PretVanzare": 2499.50,
+    "DataVanzare": "2025-05-26T18:39:09.4553808\u002B03:00",
+    "EsteNegociat": false
+  },
+  {
+    "Id": "6a4c5610-4ad7-4aba-98cf-38f0bae9575e",
+    "ProductId": 4,
+    "ProductName": "iphone15",
+    "SellerEmail": "seller",
+    "BuyerEmail": "flavius",
+    "PretOriginal": 4000,
+    "PretVanzare": 4000,
+    "DataVanzare": "2025-05-26T18:59:28.0598913\u002B03:00",
+    "EsteNegociat": false
+  },
+  {
+    "Id": "f95cf6ef-9d0f-436e-80ac-d09cba08541a",
+    "ProductId": 4,
+    "ProductName": "samsung25",
+    "SellerEmail": "seller",
+    "BuyerEmail": "flavius",
+    "PretOriginal": 2500,
+    "PretVanzare": 2500,
+    "DataVanzare": "2025-05-27T20:50:01.0165139+03:00",
+    "EsteNegociat": false
+  }
+]
